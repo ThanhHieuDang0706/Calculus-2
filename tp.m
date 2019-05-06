@@ -1,6 +1,5 @@
 % De: Tinh tich phan duong Sc(dau tich phan) ydx - x^2dy voi C 
 % la y = 4 - x^2 tu A(2,0) den B(0,4)
-
 clc;
 syms x y;
 A = [2 0];
